@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+
+#main {
+    height: 500px;
+    width: 72%;
+    margin-left: 300px;
+    
+}
+
+#first .black {
+    top: 50%;
+    display: inline-block;
+    height: 100px;
+    width: 10%;
+    background-color: black;
+    border: 1px solid;
+    margin: -3px;
+}
+
+#first .white {
+    display: inline-block;
+    height: 100px;
+    width: 10%;
+    border: 1px solid;
+    margin: -3px;
+}
